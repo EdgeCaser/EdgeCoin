@@ -1,0 +1,2 @@
+# EdgeCoin
+Gitcoin issues
